@@ -1,0 +1,22 @@
+{
+  "name": "Rechtwinklig",
+  "version": "1.0.0",
+  "description": "Rechtwinklig KlG – Creating Design and Development",
+  "author": "Simon",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "fibers": "^4.0.2",
+    "node-sass": "^4.13.0",
+    "nuxt": "^2.0.0",
+    "sass": "^1.23.7",
+    "sass-loader": "^8.0.0"
+  },
+  "devDependencies": {}
+}
