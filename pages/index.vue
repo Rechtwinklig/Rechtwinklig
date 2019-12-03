@@ -1,6 +1,6 @@
 <template>
   <div>
-
+		<h1>Heroku works! Alright!</h1>
   </div>
 </template>
 
